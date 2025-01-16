@@ -78,7 +78,6 @@ The project involves the following key steps:
    - `tensorflow`
 
    Install them using:
-   ```bash
    pip install pandas numpy yfinance matplotlib seaborn scikit-learn tensorflow
 
 ## Running the Script
